@@ -1,0 +1,4 @@
+Hal hal yang harus di pahami untuk masuk ke node js
+1. Arrow Function
+2. Asyncronus
+3. JSON
