@@ -1,7 +1,7 @@
 // Console
 console.log('Module bawaan untuk menampilkan debug');
 
-// Module processs
+// Module process
 const process = require('process');
 const env = process.env;
 env.hasil = 'Module JS untuk menampilkan dan mengontrol proses Node yang sedang berjalan';
