@@ -1,0 +1,5 @@
+Menginstall express
+Menginstall nodemoon
+Menginstall body-parser
+Menginstall jsonwebtoken
+Menginstall dotenv
